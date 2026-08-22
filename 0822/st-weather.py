@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-import bs4
 
 st.title('天氣資訊')
 
